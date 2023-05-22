@@ -1,0 +1,39 @@
+O###14:15###Paris (CDG)###AF 5678###Air France###started###17-24###
+O###11:55###Tokyo (HND)###JL 9876###Japan Airlines###canceled###17-24###
+O###16:10###Sydney (SYD)###QF 3210###Qantas###boarding###50-56###
+O###13:45###Barcelona (BCN)###IB 4567###Iberia###boarding###25-32###
+O###09:30###London (LHR)###BA 2345###British Airways###started###10-16###
+P###09:10###Rome (FCO)###AZ 6543###Alitalia###false###1###
+P###18:30###Los Angeles (LAX)###AA 7890###American Airlines###true###8###
+P###13:45###Singapore (SIN)###SQ 8765###Singapore Airlines###false###2###
+P###15:55###Berlin (TXL)###LH 3210###Lufthansa###true###3###
+P###10:20###Munich (MUC)###DL 8765###Delta Airlines###true###6###
+P###17:40###Madrid (MAD)###IB 3456###Iberia###false###4###
+P###12:05###Hong Kong (HKG)###CX 4321###Cathay Pacific###true###1###
+O###17:20###New York (JFK)###DL 1234###Delta Airlines###boarding###40-46###
+O###08:40###Dubai (DXB)###EK 7890###Emirates###started###28-35###
+O###12:20###Amsterdam (AMS)###KL 4321###KLM###boarding###15-22###
+O###10:05###Rome (FCO)###AZ 6543###Alitalia###started###12-18###
+O###19:30###Los Angeles (LAX)###AA 7890###American Airlines###boarding###30-36###
+O###07:15###Singapore (SIN)###SQ 8765###Singapore Airlines###started###8-14###
+O###18:05###Berlin (TXL)###LH 3210###Lufthansa###canceled###17-24###
+P###10:30###London (LHR)###BA 2345###British Airways###false###3###
+P###14:20###Tokyo (HND)###JL 9876###Japan Airlines###true###6###
+P###16:45###New York (JFK)###DL 1234###Delta Airlines###false###2###
+P###12:15###Sydney (SYD)###QF 3210###Qantas###true###4###
+P###08:40###Dubai (DXB)###EK 7890###Emirates###true###7###
+P###11:50###Amsterdam (AMS)###KL 4321###KLM###true###5###
+O###13:00###Munich (MUC)###DL 8765###Delta Airlines###boarding###45-52###
+O###10:50###Madrid (MAD)###IB 3456###Iberia###started###20-27###
+O###15:35###Hong Kong (HKG)###CX 4321###Cathay Pacific###boarding###55-62###
+O###09:25###Vienna (VIE)###OS 6543###Austrian Airlines###started###23-30###
+O###16:55###Bangkok (BKK)###TG 2109###Thai Airways###boarding###37-44###
+O###08:15###Frankfurt (FRA)###LH 5678###Lufthansa###started###13-20###
+O###12:40###Athens (ATH)###OA 3210###Olympic Air###boarding###19-26###
+P###08:35###Vienna (VIE)###OS 6543###Austrian Airlines###true###7###
+P###11:30###Zurich (ZRH)###LX 9876###Swiss International###false###5###
+P###16:10###Bangkok (BKK)###TG 2109###Thai Airways###true###2###
+P###09:55###Frankfurt (FRA)###LH 5678###Lufthansa###false###3###
+P###13:20###Athens (ATH)###OA 3210###Olympic Air###true###4###
+P###15:45###Barcelona (BCN)###IB 4567###Iberia###false###1###
+P###10:40###Paris (CDG)###AF 5678###Air France###true###6###
